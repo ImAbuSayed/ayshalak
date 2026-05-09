@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ayshalak
+
+This log tracks the cryptographic history and versioning for the song **Ayshalak** (ayshalak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T13:28:18.045659 | `v1` | `4953128217a8c1d68ca70b8b59563160906e4c0d9fb63f83efec4c0f7348473a` | `4953128217a8c1d68ca70b8b59563160906e4c0d9fb63f83efec4c0f7348473a` | `2026-05-09_ayshalak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
